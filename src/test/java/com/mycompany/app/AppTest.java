@@ -13,27 +13,27 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue(1)
     {
         assertTrue( true );
     }
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue(2)
     {
         assertTrue( true );
     }
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue(3)
     {
         assertTrue( true );
     }
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue(4)
     {
         assertTrue( true );
     }
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue(5)
     {
         assertTrue( true );
     }
